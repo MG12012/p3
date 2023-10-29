@@ -1,0 +1,289 @@
+OrigenKey;IdOrigen;Origen;OrigenCiudadNombre;OrigenEstado
+1;1;TPA;Tampa; FL
+2;2;DEN;Denver; CO
+3;3;IAH;Houston; TX
+4;4;IAD;Washington; DC
+5;5;EWR;Newark; NJ
+6;6;ORD;Chicago; IL
+7;7;SEA;Seattle; WA
+8;8;SFO;San Francisco; CA
+9;9;MSP;Minneapolis; MN
+10;10;LAX;Los Angeles; CA
+11;11;LAS;Las Vegas; NV
+12;12;PBI;West Palm Beach/Palm Beach; FL
+13;13;PHX;Phoenix; AZ
+14;14;FLL;Fort Lauderdale; FL
+15;15;ONT;Ontario; CA
+16;16;SJC;San Jose; CA
+17;17;MCO;Orlando; FL
+18;18;RDU;Raleigh/Durham; NC
+19;19;JAX;Jacksonville; FL
+20;20;DFW;Dallas/Fort Worth; TX
+21;21;SAN;San Diego; CA
+22;22;BZN;Bozeman; MT
+23;23;AUS;Austin; TX
+24;24;DSM;Des Moines; IA
+25;25;CLE;Cleveland; OH
+26;26;SJU;San Juan; PR
+27;27;SNA;Santa Ana; CA
+28;28;MIA;Miami; FL
+29;29;CVG;Cincinnati; OH
+30;30;BOI;Boise; ID
+31;31;BWI;Baltimore; MD
+32;32;GEG;Spokane; WA
+33;33;SAT;San Antonio; TX
+34;34;PHL;Philadelphia; PA
+35;35;PDX;Portland; OR
+36;36;ATL;Atlanta; GA
+37;37;LIH;Lihue; HI
+38;38;KOA;Kona; HI
+39;39;OGG;Kahului; HI
+40;40;BOS;Boston; MA
+41;41;MCI;Kansas City; MO
+42;42;LGA;New York; NY
+43;43;ITO;Hilo; HI
+44;44;OKC;Oklahoma City; OK
+45;45;RSW;Fort Myers; FL
+46;46;SRQ;Sarasota/Bradenton; FL
+47;47;PSP;Palm Springs; CA
+48;48;BTV;Burlington; VT
+49;49;HNL;Honolulu; HI
+50;50;ANC;Anchorage; AK
+51;51;MSN;Madison; WI
+52;52;MSY;New Orleans; LA
+53;53;CLT;Charlotte; NC
+54;54;EGE;Eagle; CO
+55;55;DCA;Washington; DC
+56;56;MFE;Mission/McAllen/Edinburg; TX
+57;57;TUS;Tucson; AZ
+58;58;BQN;Aguadilla; PR
+59;59;CID;Cedar Rapids/Iowa City; IA
+60;60;ABQ;Albuquerque; NM
+61;61;BUR;Burbank; CA
+62;62;PWM;Portland; ME
+63;63;JAC;Jackson; WY
+64;64;DTW;Detroit; MI
+65;65;EUG;Eugene; OR
+66;66;SLC;Salt Lake City; UT
+67;67;BNA;Nashville; TN
+68;68;SMF;Sacramento; CA
+69;69;OMA;Omaha; NE
+70;70;CHS;Charleston; SC
+71;71;FSD;Sioux Falls; SD
+72;72;PIT;Pittsburgh; PA
+73;73;SAV;Savannah; GA
+74;74;MEM;Memphis; TN
+75;75;BIL;Billings; MT
+76;76;CMH;Columbus; OH
+77;77;IND;Indianapolis; IN
+78;78;RIC;Richmond; VA
+79;79;DLH;Duluth; MN
+80;80;RNO;Reno; NV
+81;81;BUF;Buffalo; NY
+82;82;GRR;Grand Rapids; MI
+83;83;GUM;Guam; TT
+84;84;TYS;Knoxville; TN
+85;85;ROC;Rochester; NY
+86;86;BDL;Hartford; CT
+87;87;MFR;Medford; OR
+88;88;FAT;Fresno; CA
+89;89;MYR;Myrtle Beach; SC
+90;90;MKE;Milwaukee; WI
+91;91;AVL;Asheville; NC
+92;92;HDN;Hayden; CO
+93;93;GUC;Gunnison; CO
+94;94;MTJ;Montrose/Delta; CO
+95;95;SPN;Saipan; TT
+96;96;ROP;Rota; TT
+97;97;ALB;Albany; NY
+98;98;PVD;Providence; RI
+99;99;SYR;Syracuse; NY
+100;100;SDF;Louisville; KY
+101;101;ITH;Ithaca/Cortland; NY
+102;102;ORF;Norfolk; VA
+103;103;FAY;Fayetteville; NC
+104;104;MHT;Manchester; NH
+105;105;GSP;Greer; SC
+106;106;GSO;Greensboro/High Point; NC
+107;107;STL;St. Louis; MO
+108;108;PIA;Peoria; IL
+109;109;MDT;Harrisburg; PA
+110;110;CHO;Charlottesville; VA
+111;111;SGF;Springfield; MO
+112;112;ICT;Wichita; KS
+113;113;FNT;Flint; MI
+114;114;TVC;Traverse City; MI
+115;115;JAN;Jackson/Vicksburg; MS
+116;116;HSV;Huntsville; AL
+117;117;GTF;Great Falls; MT
+118;118;BIS;Bismarck/Mandan; ND
+119;119;AMA;Amarillo; TX
+120;120;SAF;Santa Fe; NM
+121;121;LBB;Lubbock; TX
+122;122;MSO;Missoula; MT
+123;123;LNK;Lincoln; NE
+124;124;FCA;Kalispell; MT
+125;125;RAP;Rapid City; SD
+126;126;ISN;Williston; ND
+127;127;DIK;Dickinson; ND
+128;128;CMI;Champaign/Urbana; IL
+129;129;MOT;Minot; ND
+130;130;GJT;Grand Junction; CO
+131;131;ELP;El Paso; TX
+132;132;DAY;Dayton; OH
+133;133;FAR;Fargo; ND
+134;134;DRO;Durango; CO
+135;135;COS;Colorado Springs; CO
+136;136;CAE;Columbia; SC
+137;137;CPR;Casper; WY
+138;138;LEX;Lexington; KY
+139;139;ROA;Roanoke; VA
+140;140;MLI;Moline; IL
+141;141;CWA;Mosinee; WI
+142;142;XNA;Fayetteville; AR
+143;143;EVV;Evansville; IN
+144;144;SCE;State College; PA
+145;145;ATW;Appleton; WI
+146;146;RST;Rochester; MN
+147;147;COU;Columbia; MO
+148;148;GRB;Green Bay; WI
+149;149;HPN;White Plains; NY
+150;150;CAK;Akron; OH
+151;151;CRW;Charleston/Dunbar; WV
+152;152;ERI;Erie; PA
+153;153;CHA;Chattanooga; TN
+154;154;AZO;Kalamazoo; MI
+155;155;LAN;Lansing; MI
+156;156;TUL;Tulsa; OK
+157;157;LIT;Little Rock; AR
+158;158;TTN;Trenton; NJ
+159;159;ISP;Islip; NY
+160;160;ABE;Allentown/Bethlehem/Easton; PA
+161;161;BHM;Birmingham; AL
+162;162;JFK;New York; NY
+163;163;OAK;Oakland; CA
+164;164;LGB;Long Beach; CA
+165;165;HOU;Houston; TX
+166;166;STX;Christiansted; VI
+167;167;ORH;Worcester; MA
+168;168;STT;Charlotte Amalie; VI
+169;169;PNS;Pensacola; FL
+170;170;SHV;Shreveport; LA
+171;171;MOB;Mobile; AL
+172;172;LRD;Laredo; TX
+173;173;VPS;Valparaiso; FL
+174;174;AEX;Alexandria; LA
+175;175;GRK;Killeen; TX
+176;176;MAF;Midland/Odessa; TX
+177;177;BRO;Brownsville; TX
+178;178;HOB;Hobbs; NM
+179;179;BTR;Baton Rouge; LA
+180;180;CRP;Corpus Christi; TX
+181;181;HRL;Harlingen/San Benito; TX
+182;182;PGD;Punta Gorda; FL
+183;183;PSM;Portsmouth; NH
+184;184;TOL;Toledo; OH
+185;185;IAG;Niagara Falls; NY
+186;186;SFB;Sanford; FL
+187;187;PIE;St. Petersburg; FL
+188;188;AZA;Phoenix; AZ
+189;189;BLI;Bellingham; WA
+190;190;GRI;Grand Island; NE
+191;191;PVU;Provo; UT
+192;192;RFD;Rockford; IL
+193;193;STC;St. Cloud; MN
+194;194;LCK;Columbus; OH
+195;195;SBN;South Bend; IN
+196;196;BLV;Belleville; IL
+197;197;OGD;Ogden; UT
+198;198;OWB;Owensboro; KY
+199;199;HGR;Hagerstown; MD
+200;200;ELM;Elmira/Corning; NY
+201;201;SCK;Stockton; CA
+202;202;MRY;Monterey; CA
+203;203;PSC;Pasco/Kennewick/Richland; WA
+204;204;IDA;Idaho Falls; ID
+205;205;BGR;Bangor; ME
+206;206;PBG;Plattsburgh; NY
+207;207;USA;Concord; NC
+208;208;BMI;Bloomington/Normal; IL
+209;209;TRI;Bristol/Johnson City/Kingsport; TN
+210;210;FWA;Fort Wayne; IN
+211;211;HTS;Ashland; WV
+212;212;OGS;Ogdensburg; NY
+213;213;SWF;Newburgh/Poughkeepsie; NY
+214;214;SPI;Springfield; IL
+215;215;GFK;Grand Forks; ND
+216;216;GPT;Gulfport/Biloxi; MS
+217;217;SMX;Santa Maria; CA
+218;218;CKB;Clarksburg/Fairmont; WV
+219;219;LBE;Latrobe; PA
+220;220;CMX;Hancock/Houghton; MI
+221;221;EAU;Eau Claire; WI
+222;222;LBF;North Platte; NE
+223;223;GCC;Gillette; WY
+224;224;MBS;Saginaw/Bay City/Midland; MI
+225;225;RKS;Rock Springs; WY
+226;226;PUB;Pueblo; CO
+227;227;LBL;Liberal; KS
+228;228;MKG;Muskegon; MI
+229;229;PAH;Paducah; KY
+230;230;CGI;Cape Girardeau; MO
+231;231;UIN;Quincy; IL
+232;232;BFF;Scottsbluff; NE
+233;233;DVL;Devils Lake; ND
+234;234;JMS;Jamestown; ND
+235;235;LAR;Laramie; WY
+236;236;SGU;St. George; UT
+237;237;HYS;Hays; KS
+238;238;ASE;Aspen; CO
+239;239;HLN;Helena; MT
+240;240;SBA;Santa Barbara; CA
+241;241;RDM;Bend/Redmond; OR
+242;242;ACV;Arcata/Eureka; CA
+243;243;BFL;Bakersfield; CA
+244;244;SUN;Sun Valley/Hailey/Ketchum; ID
+245;245;OTH;North Bend/Coos Bay; OR
+246;246;RDD;Redding; CA
+247;247;SBP;San Luis Obispo; CA
+248;248;MMH;Mammoth Lakes; CA
+249;249;STS;Santa Rosa; CA
+250;250;COD;Cody; WY
+251;251;DAL;Dallas; TX
+252;252;AVP;Scranton/Wilkes-Barre; PA
+253;253;MDW;Chicago; IL
+254;254;ECP;Panama City; FL
+255;255;EYW;Key West; FL
+256;256;LFT;Lafayette; LA
+257;257;FAI;Fairbanks; AK
+258;258;ADQ;Kodiak; AK
+259;259;BET;Bethel; AK
+260;260;BRW;Barrow; AK
+261;261;SCC;Deadhorse; AK
+262;262;JNU;Juneau; AK
+263;263;KTN;Ketchikan; AK
+264;264;CDV;Cordova; AK
+265;265;YAK;Yakutat; AK
+266;266;SIT;Sitka; AK
+267;267;PSG;Petersburg; AK
+268;268;WRG;Wrangell; AK
+269;269;OME;Nome; AK
+270;270;OTZ;Kotzebue; AK
+271;271;ADK;Adak Island; AK
+272;272;PPG;Pago Pago; TT
+273;273;MKK;Hoolehua; HI
+274;274;LNY;Lanai; HI
+275;275;JHM;Kapalua; HI
+276;276;CLL;College Station/Bryan; TX
+277;277;MLU;Monroe; LA
+278;278;LCH;Lake Charles; LA
+279;279;TWF;Twin Falls; ID
+280;280;DAB;Daytona Beach; FL
+281;281;PSE;Ponce; PR
+282;282;ACY;Atlantic City; NJ
+283;283;PUW;Pullman; WA
+284;284;EAT;Wenatchee; WA
+285;285;ALW;Walla Walla; WA
+286;286;YKM;Yakima; WA
+287;287;LWS;Lewiston; ID
+288;288;DUT;Unalaska; AK
