@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_7PPcMXYGEe6Hv_KssOeDxA" name="IncidenteP-A" dataPackage="_7PPcMnYGEe6Hv_KssOeDxA" Server="Localhost 127.0.0.1" FilePath="C:/Users/nelso/OneDrive - FIA_UES/Escritorio/Nueva carpeta/Process/incidente_salidaP.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;;&quot;" RowSeparatorValue="&quot;\n&quot;" UseHeader="true" HeaderValue="1" FirstLineCaption="true"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_7PPcMnYGEe6Hv_KssOeDxA" name="default" dataManager="_7PPcMXYGEe6Hv_KssOeDxA">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_7PPcM3YGEe6Hv_KssOeDxA" id="_3Vkb8HYGEe6Hv_KssOeDxA" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7PPcNHYGEe6Hv_KssOeDxA" label="IdIncident" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7PPcNXYGEe6Hv_KssOeDxA" label="CarrierDelay" length="6" precision="3" talendType="id_Float" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7PPcNnYGEe6Hv_KssOeDxA" label="WeatherDelay" length="2" talendType="id_Integer" pattern="&quot;dd-MM-yyyy&quot;"/>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_7PPcN3YGEe6Hv_KssOeDxA" label="NASDelay" length="5" talendType="id_String" pattern="&quot;dd-MM-yyyy&quot;"/>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>
