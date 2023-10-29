@@ -1,0 +1,288 @@
+IdDestino;Dest;DestCityName;DestState
+1;31703;EWR;Newark
+2;30194;DFW;Dallas/Fort Worth
+3;30325;DEN;Denver
+4;30397;ATL;Atlanta
+5;32575;LAX;Los Angeles
+6;31453;IAH;Houston
+7;31454;MCO;Orlando
+8;33495;MSY;New Orleans
+9;30721;BOS;Boston
+10;32457;SFO;San Francisco
+11;31603;EUG;Eugene
+12;30466;PHX;Phoenix
+13;31703;LGA;New York
+14;31714;RSW;Fort Myers
+15;30977;ORD;Chicago
+16;30852;IAD;Washington
+17;30852;BWI;Baltimore
+18;30559;SEA;Seattle
+19;32467;FLL;Fort Lauderdale
+20;30423;AUS;Austin
+21;30140;ABQ;Albuquerque
+22;30693;BNA;Nashville
+23;31003;CID;Cedar Rapids/Iowa City
+24;30647;CLE;Cleveland
+25;32467;MIA;Miami
+26;33570;SAN;San Diego
+27;33195;TPA;Tampa
+28;33256;MFE;Mission/McAllen/Edinburg
+29;33214;SAT;San Antonio
+30;33192;SMF;Sacramento
+31;34986;SRQ;Sarasota/Bradenton
+32;34100;PHL;Philadelphia
+33;34321;PWM;Portland
+34;31423;DSM;Des Moines
+35;31135;MYR;Myrtle Beach
+36;30852;DCA;Washington
+37;34027;PBI;West Palm Beach/Palm Beach
+38;32758;KOA;Kona
+39;32211;LAS;Las Vegas
+40;34614;SLC;Salt Lake City
+41;33830;OGG;Kahului
+42;34262;PSP;Palm Springs
+43;32982;LIH;Lihue
+44;31650;MSP;Minneapolis
+45;33485;MSN;Madison
+46;32134;HNL;Honolulu
+47;34057;PDX;Portland
+48;32575;BUR;Burbank
+49;30785;BTV;Burlington
+50;33851;OKC;Oklahoma City
+51;31503;EGE;Eagle
+52;34819;SJU;San Juan
+53;33264;MFR;Medford
+54;30994;CHS;Charleston
+55;32575;SNA;Santa Ana
+56;31638;FAT;Fresno
+57;32441;JAC;Jackson
+58;33198;MCI;Kansas City
+59;34492;RDU;Raleigh/Durham
+60;34685;SAV;Savannah
+61;33316;OMA;Omaha
+62;30299;ANC;Anchorage
+63;31136;JAX;Jacksonville
+64;30198;PIT;Pittsburgh
+65;33342;MKE;Milwaukee
+66;31337;DLH;Duluth
+67;32457;SJC;San Jose
+68;30732;BQN;Aguadilla
+69;31057;CLT;Charlotte
+70;31295;DTW;Detroit
+71;32402;ITO;Hilo
+72;34524;RIC;Richmond
+73;32575;ONT;Ontario
+74;31066;CMH;Columbus
+75;30792;BUF;Buffalo
+76;31884;GEG;Spokane
+77;30849;BZN;Bozeman
+78;30620;BIL;Billings
+79;30436;TUS;Tucson
+80;34570;RNO;Reno
+81;33105;CVG;Cincinnati
+82;30713;BOI;Boise
+83;30529;BDL;Hartford
+84;32337;IND;Indianapolis
+85;34576;ROC;Rochester
+86;32016;GUM;Guam
+87;35412;TYS;Knoxville
+88;31986;GRR;Grand Rapids
+89;31775;FSD;Sioux Falls
+90;33244;MEM;Memphis
+91;34699;HDN;Hayden
+92;30431;AVL;Asheville
+93;32012;GUC;Gunnison
+94;33502;MTJ;Montrose/Delta
+95;34955;SPN;Saipan
+96;34582;ROP;Rota
+97;30721;PVD;Providence
+98;30257;ALB;Albany
+99;35096;SYR;Syracuse
+100;31123;STL;St. Louis
+101;33044;SDF;Louisville
+102;33667;ORF;Norfolk
+103;30721;MHT;Manchester
+104;32397;ITH;Ithaca/Cortland
+105;34574;ROA;Roanoke
+106;31871;GSP;Greer
+107;31995;GSO;Greensboro/High Point
+108;32600;LIT;Little Rock
+109;30255;HSV;Huntsville
+110;34108;PIA;Peoria
+111;31637;FAR;Fargo
+112;32070;MDT;Harrisburg
+113;34783;SGF;Springfield
+114;30928;ICT;Wichita
+115;35380;TVC;Traverse City
+116;31721;FNT;Flint
+117;31267;DAY;Dayton
+118;31067;CMI;Champaign/Urbana
+119;30990;CHO;Charlottesville
+120;34674;SAF;Santa Fe
+121;30189;COS;Colorado Springs
+122;31895;GTF;Great Falls
+123;30627;BIS;Bismarck/Mandan
+124;30279;AMA;Amarillo
+125;34457;RAP;Rapid City
+126;33486;MSO;Missoula
+127;32389;ISN;Williston
+128;33029;LNK;Lincoln
+129;32896;LBB;Lubbock
+130;30868;CAE;Columbia
+131;31315;DIK;Dickinson
+132;33304;MOT;Minot
+133;31921;GJT;Grand Junction
+134;31648;FCA;Kalispell
+135;30615;ELP;El Paso
+136;30285;DRO;Durango
+137;31122;CPR;Casper
+138;32945;LEX;Lexington
+139;33367;MLI;Moline
+140;34653;TUL;Tulsa
+141;30424;CWA;Mosinee
+142;31834;XNA;Fayetteville
+143;31641;FAY;Fayetteville
+144;31612;EVV;Evansville
+145;31977;GRB;Green Bay
+146;30647;CAK;Akron
+147;30408;ATW;Appleton
+148;34711;SCE;State College
+149;31146;CRW;Charleston/Dunbar
+150;32547;RST;Rochester
+151;32474;COU;Columbia
+152;31577;ERI;Erie
+153;31703;HPN;White Plains
+154;30469;AZO;Kalamazoo
+155;30980;CHA;Chattanooga
+156;32448;JAN;Jackson/Vicksburg
+157;32884;LAN;Lansing
+158;31703;ISP;Islip
+159;35356;TTN;Trenton
+160;30135;ABE;Allentown/Bethlehem/Easton
+161;30599;BHM;Birmingham
+162;31703;JFK;New York
+163;32575;LGB;Long Beach
+164;32457;OAK;Oakland
+165;33933;ORH;Worcester
+166;34992;STX;Christiansted
+167;31252;DAB;Daytona Beach
+168;32177;HOB;Hobbs
+169;34696;SBN;South Bend
+170;31205;LCH;Lake Charles
+171;30781;BTR;Baton Rouge
+172;31982;GRK;Killeen
+173;32951;LFT;Lafayette
+174;31481;ECP;Panama City
+175;33377;MLU;Monroe
+176;33038;LRD;Laredo
+177;33158;MAF;Midland/Odessa
+178;30562;MOB;Mobile
+179;31140;CRP;Corpus Christi
+180;31049;CLL;College Station/Bryan
+181;33728;PNS;Pensacola
+182;34082;PGD;Punta Gorda
+183;34259;PSM;Portsmouth
+184;35165;TOL;Toledo
+185;32265;IAG;Niagara Falls
+186;34761;SFB;Sanford
+187;33195;PIE;St. Petersburg
+188;30466;AZA;Phoenix
+189;30666;BLI;Bellingham
+190;31980;GRI;Grand Island
+191;34314;PVU;Provo
+192;34512;RFD;Rockford
+193;32556;STC;St. Cloud
+194;31066;LCK;Columbus
+195;30676;BLV;Belleville
+196;32131;OGD;Ogden
+197;33983;OWB;Owensboro
+198;32119;HGR;Hagerstown
+199;32544;USA;Concord
+200;31537;ELM;Elmira/Corning
+201;30476;SHV;Shreveport
+202;34716;SCK;Stockton
+203;34922;MRY;Monterey
+204;34252;PSC;Pasco/Kennewick/Richland
+205;32280;IDA;Idaho Falls
+206;30581;BGR;Bangor
+207;31504;VPS;Valparaiso
+208;34025;PBG;Plattsburgh
+209;30685;BMI;Bloomington/Normal
+210;35323;TRI;Bristol/Johnson City/Kingsport
+211;31823;FWA;Fort Wayne
+212;32223;HTS;Ashland
+213;33832;OGS;Ogdensburg
+214;31703;SWF;Newburgh/Poughkeepsie
+215;34952;SPI;Springfield
+216;31898;GFK;Grand Forks
+217;31973;GPT;Gulfport/Biloxi
+218;34905;SMX;Santa Maria
+219;31027;CKB;Clarksburg/Fairmont
+220;32898;LBE;Latrobe
+221;34794;SGU;St. George
+222;33184;MBS;Saginaw/Bay City/Midland
+223;33344;MKG;Muskegon
+224;34288;PUB;Pueblo
+225;32902;LBL;Liberal
+226;31076;CMX;Hancock/Houghton
+227;31471;EAU;Eau Claire
+228;34006;PAH;Paducah
+229;35454;UIN;Quincy
+230;34543;RKS;Rock Springs
+231;30967;CGI;Cape Girardeau
+232;32519;JMS;Jamestown
+233;31447;DVL;Devils Lake
+234;32888;LAR;Laramie
+235;30558;BFF;Scottsbluff
+236;31865;GCC;Gillette
+237;32899;LBF;North Platte
+238;32255;HYS;Hays
+239;33792;RDD;Redding
+240;34689;SBA;Santa Barbara
+241;34236;SBP;San Luis Obispo
+242;30561;BFL;Bakersfield
+243;30372;ASE;Aspen
+244;32156;HLN;Helena
+245;34489;RDM;Bend/Redmond
+246;30157;ACV;Arcata/Eureka
+247;35041;SUN;Sun Valley/Hailey/Ketchum
+248;33388;MMH;Mammoth Lakes
+249;33964;OTH;North Bend/Coos Bay
+250;34433;STS;Santa Rosa
+251;31097;COD;Cody
+252;30194;DAL;Dallas
+253;30434;AVP;Scranton/Wilkes-Barre
+254;30977;MDW;Chicago
+255;31453;HOU;Houston
+256;32206;HRL;Harlingen/San Benito
+257;31624;EYW;Key West
+258;31517;FAI;Fairbanks
+259;30113;BET;Bethel
+260;30070;ADQ;Kodiak
+261;30073;SCC;Deadhorse
+262;30107;BRW;Barrow
+263;31401;KTN;Ketchikan
+264;35991;YAK;Yakutat
+265;32523;JNU;Juneau
+266;30913;CDV;Cordova
+267;34828;SIT;Sitka
+268;34256;PSG;Petersburg
+269;35841;WRG;Wrangell
+270;33873;OME;Nome
+271;33970;OTZ;Kotzebue
+272;30165;ADK;Adak Island
+273;34222;PPG;Pago Pago
+274;33347;MKK;Hoolehua
+275;33034;LNY;Lanai
+276;32492;JHM;Kapalua
+277;34945;STT;Charlotte Amalie
+278;30185;AEX;Alexandria
+279;30747;BRO;Brownsville
+280;34254;PSE;Ponce
+281;30158;ACY;Atlantic City
+282;31470;EAT;Wenatchee
+283;34303;PUW;Pullman
+284;30275;ALW;Walla Walla
+285;33127;LWS;Lewiston
+286;36101;YKM;Yakima
+287;31445;DUT;Unalaska
